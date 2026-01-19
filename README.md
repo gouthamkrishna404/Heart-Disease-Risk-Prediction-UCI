@@ -173,4 +173,5 @@ The system emphasizes:
 
 **Hugging Face Spaces:**  
 https://huggingface.co/spaces/gouthamkrishna404/Heart-Disease-Risk-Prediction-UCI
+Currently down
 
