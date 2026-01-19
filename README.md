@@ -4,7 +4,6 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Spaces-yellow)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Live Demo](https://img.shields.io/badge/Live-Demo-success)
 
@@ -174,4 +173,5 @@ The system emphasizes:
 **Hugging Face Spaces:**  
 https://huggingface.co/spaces/gouthamkrishna404/Heart-Disease-Risk-Prediction-UCI
 Currently down
+
 
