@@ -97,62 +97,75 @@ The system emphasizes:
 
 ## 📈 Exploratory Data Analysis
 
-### Target Distribution
+### Target Distribution  
+
 ![Target Distribution](output/preprocessing/target_distribution.png)
 
-### Missing Values
+### Missing Values  
+
 ![Missing Values](output/preprocessing/missing_values.png)
 
-### Correlation Heatmap
+### Correlation Heatmap  
+
 ![Correlation](output/preprocessing/correlation.png)
 
 ### Feature Distributions
 
-**Age**
-![Age Histogram](output/preprocessing/age_hist.png)
+**Age**  
+
+![Age Histogram](output/preprocessing/age_hist.png)  
+
 ![Age Boxplot](output/preprocessing/age_boxplot.png)
 
-**Cholesterol**
-![Chol Histogram](output/preprocessing/chol_hist.png)
+**Cholesterol**  
+
+![Chol Histogram](output/preprocessing/chol_hist.png)  
+
 ![Chol Boxplot](output/preprocessing/chol_boxplot.png)
 
-**Max Heart Rate (thalch)**
-![Thalach Histogram](output/preprocessing/thalch_hist.png)
-![Thalach Boxplot](output/preprocessing/thalch_boxplot.png)
+**Max Heart Rate (thalch)**  
 
-**Resting Blood Pressure (trestbps)**
-![Trestbps Histogram](output/preprocessing/trestbps_hist.png)
-![Trestbps Boxplot](output/preprocessing/trestbps_boxplot.png)
+![Thalach Histogram](output/preprocessing/thalch_hist.png)  
 
-**Oldpeak**
-![Oldpeak Histogram](output/preprocessing/oldpeak_hist.png)
-![Oldpeak Boxplot](output/preprocessing/oldpeak_boxplot.png)
+![Thalach Boxplot](output/preprocessing/thalch_boxplot.png)  
 
-**CA (Major Vessels)**
-![CA Histogram](output/preprocessing/ca_hist.png)
-![CA Boxplot](output/preprocessing/ca_boxplot.png)
+
+**Resting Blood Pressure (trestbps)**  
+
+![Trestbps Histogram](output/preprocessing/trestbps_hist.png)  
+
+![Trestbps Boxplot](output/preprocessing/trestbps_boxplot.png)  
+
+
+**Oldpeak**  
+
+![Oldpeak Histogram](output/preprocessing/oldpeak_hist.png)  
+
+![Oldpeak Boxplot](output/preprocessing/oldpeak_boxplot.png)  
+
+
+**CA (Major Vessels)**  
+
+![CA Histogram](output/preprocessing/ca_hist.png)  
+
+![CA Boxplot](output/preprocessing/ca_boxplot.png)  
+
 
 ---
 
 ## 📉 Model Evaluation
 
-### Confusion Matrix
+### Confusion Matrix  
+
 ![Confusion Matrix](output/evaluation/confusion_matrix.png)
 
-### ROC Curve
+### ROC Curve  
+
 ![ROC Curve](output/evaluation/roc_curve.png)
 
-### Precision-Recall Curve
+### Precision-Recall Curve  
+
 ![PR Curve](output/evaluation/pr_curve.png)
-
----
-
-## 🔍 Model Explainability (SHAP)
-
-SHAP (SHapley Additive exPlanations) is used to:
-- Identify important clinical features
-- Explain individual predictions
-- Improve transparency and trust in medical AI systems
 
 ---
 
@@ -160,3 +173,4 @@ SHAP (SHapley Additive exPlanations) is used to:
 
 **Hugging Face Spaces:**  
 https://huggingface.co/spaces/gouthamkrishna404/Heart-Disease-Risk-Prediction-UCI
+
